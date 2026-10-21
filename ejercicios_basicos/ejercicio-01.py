@@ -11,7 +11,7 @@ def frecuencias_letras(pTxt):
     Esta función calcula la frecuencias de cada letra en una cadena de caracteres(string).
 
     Args:
-        pTxt: una cadena de texto.
+        pTxt (str): una cadena de texto.
 
     Returns:
         diccionario: Un diccionario que contiene como claves cada letra(char)
@@ -20,7 +20,7 @@ def frecuencias_letras(pTxt):
 
 
     # Convierto todo el texto a minúsculas,
-    #  porque no quiero que mayúsculas y minúsculas
+    # porque no quiero que mayúsculas y minúsculas
     # las cuente como letras diferentes.
     pTxt = pTxt.lower()
 
