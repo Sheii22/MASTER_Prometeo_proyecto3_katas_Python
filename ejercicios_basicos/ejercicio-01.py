@@ -14,7 +14,7 @@ def frecuencias_letras(pTxt):
         pTxt (str): una cadena de texto.
 
     Returns:
-        diccionario: Un diccionario que contiene como claves cada letra(char)
+        diccionario: un diccionario que contiene como claves cada letra(char)
         de la cadena de caracteres, y como valores las frecuencias de cada letra.
     """
 
