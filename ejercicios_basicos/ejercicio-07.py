@@ -21,7 +21,7 @@ def conversion_a_lista_strings(pLista_tuplas):
 
     # list(...): Convierte el objeto devuelto por `map()` de nuevo en una lista
 
-    # map(funcion, iterable): Aplica la función a cada tupla individual contenida en la lista.
+    # map(función, iterable): Aplica la función a cada tupla individual contenida en la lista.
 
     # map(str, tupla): Python aplica `str()` a cada tupla completa,
     #                  por lo que el resultado conserva los paréntesis y las comas
