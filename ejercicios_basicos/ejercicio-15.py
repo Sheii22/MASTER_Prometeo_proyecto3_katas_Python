@@ -16,6 +16,7 @@ sumar_tres = lambda pLista_numeros: [num + 3 for num in pLista_numeros]
      #  Realiza la operación "num + 3" a cada elemento(num) de la lista de números(pLista_numeros)
 
 
+
 # PRUEBAS:
 
 lista_1 = [10, 20, 30, 40]
