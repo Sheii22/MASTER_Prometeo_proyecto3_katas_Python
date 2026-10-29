@@ -7,6 +7,7 @@ maneja esas excepciones de manera adecuada y muestra un mensaje
 indicando si la división fue exitosa o no.
 """
 
+
 # try(teoría): encierra la operación propensa a fallos o código riesgoso
 # try: pide al usuario dos números e intente dividirlos
 try:
