@@ -3,7 +3,7 @@ Ejercicio 31:
 
 Crea una función que solicite al usuario ingresar una lista de nombres
 y luego un nombre para buscar en esa lista. Si el nombre está en la lista,
-imprime un mensaje indicando que fue encontrado; de lo contrario, lanza una excepción..
+imprime un mensaje indicando que fue encontrado; de lo contrario, lanza una excepción.
 """
 
 """
@@ -93,7 +93,7 @@ try:
 # MANEJO DE EXCEPCIONES:
 # except(teoría): captura y maneja errores específicos, evitando la interrupción del programa.
 
-# MANEJO DEL ERROR: capturamos la excepción al llamar a la función
+# MANEJO DEL ERROR: capturamos la excepción al llamar a la función.
 except NombreNoEncontradoError as error:
 
     print(f"Captura controlada del error: {error}")
